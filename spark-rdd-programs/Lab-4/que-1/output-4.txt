@@ -1,0 +1,1 @@
+Standard Deviation of Salaries : 25156.64
